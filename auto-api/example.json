@@ -1,0 +1,5 @@
+{
+    "get":{
+        "auto":["all","db","request","response"]
+    }
+}
